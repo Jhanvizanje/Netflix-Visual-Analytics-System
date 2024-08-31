@@ -1,4 +1,3 @@
-# CS661_Big_Data NetFlix Data Analysis
 # Netflix Dashboard using Plotly Dash
 
 This Python script creates a web application using the Dash library and
